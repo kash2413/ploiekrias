@@ -1,0 +1,150 @@
+._order-form .content, .order-form .content {
+	padding: 35px;
+	background: #fff;
+	margin-top: 95px;
+}
+._order-form .content h1, .order-form .content h1 {
+	text-transform: uppercase;
+}
+._order-form .content p, .order-form .content p {
+	color: #111821;
+	font-size: 16px;
+}
+
+._order-form .order-table, .order-form .order-table {
+	color: #111821;
+	font-size: 12px;
+	
+}
+._order-form .order-table span, .order-form .order-table span {
+	color: #63686e;
+	display: block;
+}
+._order-form .order-table .price, .order-form .order-table .price {
+	color: #76b729;
+	font-size: 19px;
+	line-height: 19px;
+	text-align: right;
+}
+._order-form .order-table>tbody>tr>td, .order-form .order-table>tbody>tr>td {
+	border: none;
+	padding: 8px 0 16px 0;
+	vertical-align: middle;
+}
+._order-form .order-table p, .order-form .order-table p {
+	color: #111821;
+	font-size: 16px;
+	margin: 0;
+}
+._order-form .order-table .price .old, .order-form .order-table .price .old {
+	color: #585d63;
+	text-decoration: line-through;
+}
+
+._order-form .input-group-addon, .order-form .input-group-addon {
+	width: 0;
+	padding: 0;
+	border: none;
+}
+._order-form .input-group .form-control, .order-form .input-group .form-control {
+	padding: 6px;
+	text-align: center;
+}
+._order-form .input-group .form-control:nth-child(3), .order-form .input-group .form-control:nth-child(3) {
+	margin-left: -3px;
+}
+._order-form .input-group .form-control:last-child, .order-form .input-group .form-control:last-child {
+	margin-left: -6px;
+}
+
+._order-form .page-title , .order-form .page-title{
+	background:transparent;
+	padding: 38px 0 0;
+	position: absolute;
+	width: 100%;
+}
+._order-form .page-title .col-sm-7, .order-form .page-title .col-sm-7 {
+	padding: 0 0 0 135px;
+}
+._order-form .page-title h2, .order-form .page-title h2 {
+	font-family: "GeoSlabNormal";
+	text-transform: uppercase;
+	margin: 0;
+	color: #111821;
+	font-size: 21px;
+}
+._order-form .page-title h3, .order-form .page-title h3 {
+	font-family: "GeoSlabNormal";
+	margin: 2.5px 0 0;
+	color: #575b5f;
+	font-size: 16px;
+}
+._order-form .page-title h3 a, ._order-form .page-title h3 a {
+	color: #575b5f;
+	margin-right: 15px;
+}
+._order-form .radio, ._order-form .checkbox, .order-form .radio, .order-form .checkbox {
+	margin-right: 20px;
+}
+
+._order-form .step, .order-form .step {
+	border-bottom: 1px dashed #d7d7d7;
+	padding-bottom: 20px;
+	margin-bottom: 25px;
+}
+._order-form .step h1, ._order-form .step h1:hover, .order-form .step h1, .order-form .step h1:hover {
+	cursor: pointer;
+	position: relative;
+}
+._order-form .step h1[aria-expanded]:after, .order-form .step h1[aria-expanded]:after {
+	content: '';
+	background: url(../images/caret.png) right center no-repeat;
+	width: 12px;
+	height: 23px;
+	display: block;
+	position: absolute;
+	right: 0;
+	top: 8px;
+	-ms-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+    transition: transform 0.35s;
+    -webkit-transition: transform 0.35s;
+    display: none;
+}
+._order-form .step h1[aria-expanded=true]:after, .order-form .step h1[aria-expanded=true]:after {
+	-ms-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+._order-form .restaurant-context, .order-form .restaurant-context {
+	padding: 25px 0 15px;
+}
+
+._order-form .restaurant-context .col-sm-6, .order-form .restaurant-context .col-sm-6 {
+	padding-left: 15px;
+}
+
+
+._order-form .red, .order-form .red {
+	color: #bb0a00;
+}
+._order-form .red img, .order-form .red img {
+	position: relative;
+	top: -4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
